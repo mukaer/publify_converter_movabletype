@@ -1,7 +1,7 @@
 Publify 6.1 converter from MovableType 5
 ========================================
 
-This plugin convert  Publify Database from MovableType Dababase.
+This is Blog engine Publify plugin. Convert Publify Database from MovableType Dababase.
 Use ActiveRecord.
 
 * [GitHub Publify](https://github.com/fdv/publify)
